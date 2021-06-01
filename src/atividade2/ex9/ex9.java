@@ -9,7 +9,7 @@ public class ex9 {
     int hrtrabalhadas=0;
     int desconto=0;
 
-    do {
+    do  {
         System.out.println("Digite seu nome(ou enter para parar:");
         Scanner in = new Scanner( System.in );
         System.out.println(in.nextLine());
