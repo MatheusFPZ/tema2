@@ -3,11 +3,11 @@ package atividade2.ex9;
 import java.util.Scanner;
 public class ex9 {
     char nome[];
-    int nd=0;
-    int sb=0;
-    int sl=0;
-    int hrtrabalhadas=0;
-    int desconto=0;
+    double nd=0;
+    double sb=0;
+    double sl=0;
+    double hrtrabalhadas=0;
+    double desconto=0;
 
     do  {
         System.out.println("Digite seu nome(ou enter para parar:");
