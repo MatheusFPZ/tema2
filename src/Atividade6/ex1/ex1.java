@@ -19,8 +19,9 @@ public class ex1 {
         nomes.add("Tamila");
         nomes.add("Tamila");
 
-
-        for()
+        //quebrar codigo
+        for(nomes.equals(-1))
+            break;
 
         System.out.println(nomes.size()+1);
         //for (String i : nomes) {
